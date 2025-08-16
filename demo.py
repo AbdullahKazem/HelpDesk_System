@@ -10,6 +10,22 @@ import os, subprocess
 from LayerDataFunctions import *
 import LayerDataFunctions
 
+import urllib.parse as urlparse
+
+# Read full URL from environment
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+# Parse the URL
+url = urlparse.urlparse(DATABASE_URL)
+
+conn = psycopg2.connect(
+    dbname=url.path[1:],
+    user=url.username,
+    password=url.password,
+    host=url.hostname,
+    port=url.port
+)
+
 app = Flask(__name__)
 
 app.secret_key = os.urandom(24)
@@ -40,7 +56,7 @@ def register():
         mail = request.form["Mail"]
         role = "user"
         try:
-            conn = psycopg2.connect(dbname=dbName, user=dbUser, password=dbPassword, host=dbHost, port=dbPort)  
+            conn = psycopg2.connect(DATABASE_URL)  
             dbCursor = conn.cursor()
             insertNewUser = "INSERT INTO users (name, password, mail, role) VALUES (%s, %s, %s, %s);"
             dbCursor.execute(insertNewUser, (username, password, mail, role))
@@ -63,7 +79,7 @@ def login():
         username = request.form["Username"]
         password = request.form["Password"]
         print(username, password)
-        conn = psycopg2.connect(dbname=dbName, user=dbUser, password=dbPassword, host=dbHost, port=dbPort)  
+        conn = psycopg2.connect(DATABASE_URL)  
         dbCursor = conn.cursor()
         getAllUsers = "select * from users order by id asc;"
         dbCursor.execute(getAllUsers)
@@ -119,7 +135,7 @@ def home():
         with open('Setup_Configrations.json', 'r') as file:
             setupConfigrationData = json.load(file)
         print(setupConfigrationData["userName"])
-        conn = psycopg2.connect(dbname=dbName, user=dbUser, password=dbPassword, host=dbHost, port=dbPort)  
+        conn = psycopg2.connect(DATABASE_URL)  
         dbCursor = conn.cursor()
         getAllTickets = "select * from tickets where assigned = %s order by id asc;"
         dbCursor.execute(getAllTickets, (setupConfigrationData["userName"],))
@@ -150,7 +166,7 @@ def home():
         status = request.form["status"]
         print("Ticket Id: ", ticketId, "status: ", status)
 
-        conn = psycopg2.connect(dbname=dbName, user=dbUser, password=dbPassword, host=dbHost, port=dbPort)  
+        conn = psycopg2.connect(DATABASE_URL)  
         dbCursor = conn.cursor()
         updateTicket = "update tickets set status = %s where id = %s ;"
         dbCursor.execute(updateTicket, (status, ticketId))
@@ -165,7 +181,7 @@ def connect():
         with open('Setup_Configrations.json', 'r') as file:
             setupConfigrationData = json.load(file)
         print(setupConfigrationData["userName"])
-        conn = psycopg2.connect(dbname=dbName, user=dbUser, password=dbPassword, host=dbHost, port=dbPort)  
+        conn = psycopg2.connect(DATABASE_URL)  
         dbCursor = conn.cursor()
         getAllTickets = "select * from tickets where name = %s order by id asc;"
         dbCursor.execute(getAllTickets, (setupConfigrationData["userName"],))
@@ -194,7 +210,7 @@ def connect():
         issue = request.form["issue"]
         status = "Pending"
         assigned = "ali"
-        conn = psycopg2.connect(dbname=dbName, user=dbUser, password=dbPassword, host=dbHost, port=dbPort)  
+        conn = psycopg2.connect(DATABASE_URL)  
         dbCursor = conn.cursor()
         insertNewTicket = "INSERT INTO tickets (name, place, issue, status, assigned) VALUES (%s, %s, %s, %s, %s);"
         dbCursor.execute(insertNewTicket, (name, place, issue, status, assigned))

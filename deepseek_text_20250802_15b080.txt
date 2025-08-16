@@ -1,0 +1,74 @@
+[General Computer Issues]
+
+Q: My computer is running very slowly. What should I do?
+A: Try these steps: 1) Close unused programs, 2) Check Task Manager for resource-heavy processes, 3) Run a disk cleanup, 4) Scan for malware, 5) Consider upgrading RAM if consistently slow.
+
+Q: My computer won't turn on at all. What could be wrong?
+A: Check: 1) Power cable connections, 2) Power outlet functionality, 3) If it's a laptop, try removing battery and using charger only, 4) Listen for any beep codes which indicate hardware issues.
+
+Q: Why does my computer keep freezing?
+A: Common causes: 1) Insufficient RAM, 2) Overheating (clean vents/fans), 3) Driver issues (update drivers), 4) Hard drive failure (run diagnostics), 5) Malware infection.
+
+[Hardware Issues]
+
+Q: My monitor displays "No Signal". What should I do?
+A: 1) Check video cable connections, 2) Try a different cable/port, 3) Test monitor with another device, 4) Ensure correct input source is selected, 5) Try connecting to integrated graphics if using dedicated GPU.
+
+Q: My computer is making loud fan noises. Is this normal?
+A: Loud fans often indicate: 1) Dust buildup (clean internals), 2) High CPU/GPU load, 3) Failing fan bearing (may need replacement), 4) Incorrect fan curve settings in BIOS.
+
+Q: My USB ports aren't working. How can I fix this?
+A: Try: 1) Different USB device to test, 2) Another port, 3) Restart computer, 4) Update USB drivers, 5) Check Device Manager for errors, 6) Disable USB selective suspend in Power Options.
+
+[Software Issues]
+
+Q: I can't connect to WiFi. What should I try?
+A: Troubleshooting steps: 1) Restart router/modem, 2) Forget and reconnect to network, 3) Update network drivers, 4) Check if airplane mode is off, 5) Run network troubleshooter, 6) Reset TCP/IP stack.
+
+Q: Why am I getting blue screen errors (BSOD)?
+A: Common BSOD causes: 1) Faulty RAM (run memory test), 2) Driver conflicts, 3) Hard disk errors, 4) Overheating, 5) Recent software/hardware changes. Note the error code for specific diagnosis.
+
+Q: My computer says I'm out of disk space. How can I free up space?
+A: Solutions: 1) Run Disk Cleanup, 2) Uninstall unused programs, 3) Clear browser cache, 4) Move files to external drive/cloud, 5) Disable hibernation if not needed (command: powercfg -h off).
+
+[Operating System Issues]
+
+Q: Windows updates keep failing. How can I fix this?
+A: Try: 1) Run Windows Update Troubleshooter, 2) Clear SoftwareDistribution folder, 3) Check disk for errors, 4) Reset Windows Update components, 5) Manually download updates from Microsoft Catalog.
+
+Q: My Mac won't boot past the Apple logo. What can I do?
+A: Solutions: 1) Try safe mode (hold Shift), 2) Disk First Aid in Recovery mode, 3) Reset NVRAM, 4) Reinstall macOS, 5) Check for hardware issues at Apple Store if persistent.
+
+Q: Linux won't recognize my new hardware. What should I do?
+A: Possible solutions: 1) Check kernel version (may need update), 2) Install proprietary drivers if available, 3) Check dmesg for error messages, 4) Search for specific hardware compatibility, 5) Try different kernel parameters.
+
+[Security Issues]
+
+Q: I think my computer has a virus. What should I do?
+A: Immediate steps: 1) Run full antivirus scan, 2) Boot in safe mode for scanning, 3) Change important passwords from clean device, 4) Check for unusual processes, 5) Consider system restore or clean install if severe.
+
+Q: How can I protect my computer from malware?
+A: Best practices: 1) Keep OS/software updated, 2) Use reputable antivirus, 3) Don't open suspicious emails/links, 4) Regular backups, 5) Use standard user account for daily use, 6) Enable firewall.
+
+[Laptop Specific Issues]
+
+Q: My laptop battery drains very quickly. How can I improve this?
+A: Battery saving tips: 1) Reduce screen brightness, 2) Close background apps, 3) Check battery health (may need replacement), 4) Use power saver mode, 5) Disable unnecessary startup programs, 6) Update BIOS/drivers.
+
+Q: My laptop overheats frequently. Is this dangerous?
+A: Overheating can damage components. Solutions: 1) Clean vents/fans, 2) Use on hard surfaces (not beds/blankets), 3) Consider cooling pad, 4) Replace thermal paste if old, 5) Monitor temps with software like HWMonitor.
+
+[Printer Issues]
+
+Q: My printer won't print. What should I check?
+A: Troubleshooting: 1) Check power/connections, 2) Verify paper/jam status, 3) Reinstall drivers, 4) Clear print queue, 5) Test with different document, 6) Try different USB port or network connection if applicable.
+
+[Data Recovery]
+
+Q: I accidentally deleted important files. Can I get them back?
+A: Recovery options: 1) Check Recycle Bin, 2) Use File History/Time Machine if enabled, 3) Stop using the drive immediately, 4) Use recovery software like Recuva, 5) Professional data recovery service for critical data.
+
+[Building PCs]
+
+Q: How do I know if components are compatible when building a PC?
+A: Check: 1) CPU socket matches motherboard, 2) RAM type (DDR4/DDR5) compatibility, 3) PSU wattage sufficient for GPU, 4) Case fits motherboard form factor, 5) Use PCPartPicker for compatibility checking.

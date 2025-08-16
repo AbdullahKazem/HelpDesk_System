@@ -1,0 +1,8 @@
+{
+    "dbHost": "localhost",
+    "dbUser": "postgres",
+    "dbPassword": "Kazem1234",
+    "dbPort": "5432",
+    "dbName": "Egypt_Air_Db",
+    "userName": "ans"
+}

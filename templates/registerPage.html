@@ -1,0 +1,55 @@
+{% extends "layout.html" %}
+
+{% block head %}
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='CSSFiles/register.css') }}"> 
+<style>
+  body {
+    background: url("{{ url_for('static', filename='Media/backgroundImage.jpg') }}") no-repeat center center/cover fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+</style>
+{% endblock head %}
+
+{% block content %}
+<div class="login_form">
+    <form action="{{url_for('register')}}" method="post">
+        <div class="logo">
+            <img src="{{ url_for('static', filename='Media/egyptairmainlogo.png') }}" alt="logo" class="logo" >
+             
+        </div>               
+        <div class="container">
+            <div class="textBox">
+                <i class="fa fa-user" aria-hidden="true"></i>
+                <input type="text" id="Username" name="Username" placeholder="Enter user name" autofocus="" required>
+            </div>
+            <div class="textBox">
+                <i class="fa fa-lock" aria-hidden="true"></i>
+                <input type="password" id="Password" name="Password" placeholder="Enter Password" required>
+            </div>
+            <div class="textBox">
+                <i class="fa fa-envelope" aria-hidden="true"></i>
+                <input type="email" id="mail" name="Mail" placeholder="Enter Email" required>
+            </div>
+            <label for="">Account created Successfully</label>
+            {% if check == 1%}
+                <style>
+                    label{display: block;color: green;}
+                </style>
+            {%else%}
+                <style>
+                    label{display: none;}
+                </style>
+            {%endif%}
+            <button type="submit" class="btn">Register</button>
+            <div class="register_link">
+                <p>Already have an account? <a href="{{url_for('login')}}">Login</a></p>
+            </div>
+            
+        </div>                
+    </form>
+</div>
+{% endblock content %}        
+        

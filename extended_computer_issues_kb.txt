@@ -1,0 +1,300 @@
+1. Q: Can't project screen
+   A: Use Win+P and ensure the cable is connected.
+
+2. Q: Unable to update Windows
+   A: Run Windows Update Troubleshooter.
+
+3. Q: PC overheating
+   A: Clean the fans and ensure proper ventilation.
+
+4. Q: Slow boot time
+   A: Disable startup programs.
+
+5. Q: My computer is running slow
+   A: Close unused programs, clear temporary files, and scan for malware.
+
+6. Q: PC overheating
+   A: Clean the fans and ensure proper ventilation.
+
+7. Q: Audio is not working
+   A: Check volume, output device, and reinstall audio drivers.
+
+8. Q: Files disappeared
+   A: Search for files or check if hidden.
+
+9. Q: I forgot my Windows password
+   A: Use password reset disk or contact IT.
+
+10. Q: Files disappeared
+   A: Search for files or check if hidden.
+
+11. Q: Black screen after login
+   A: Try Safe Mode or rollback display drivers.
+
+12. Q: PC overheating
+   A: Clean the fans and ensure proper ventilation.
+
+13. Q: Can't access BIOS
+   A: Press correct key (like F2, Del) during startup.
+
+14. Q: Slow boot time
+   A: Disable startup programs.
+
+15. Q: Can't open Task Manager
+   A: Use Ctrl+Shift+Esc or Safe Mode.
+
+16. Q: Black screen after login
+   A: Try Safe Mode or rollback display drivers.
+
+17. Q: Camera not detected
+   A: Check drivers and privacy settings.
+
+18. Q: Audio is not working
+   A: Check volume, output device, and reinstall audio drivers.
+
+19. Q: Can't install software
+   A: Ensure admin rights and enough disk space.
+
+20. Q: My printer is not working
+   A: Check power, connections, and reinstall the driver.
+
+21. Q: I can't connect to the internet
+   A: Restart your router, check cables, or reconnect to Wi-Fi.
+
+22. Q: My printer is not working
+   A: Check power, connections, and reinstall the driver.
+
+23. Q: My computer is running slow
+   A: Close unused programs, clear temporary files, and scan for malware.
+
+24. Q: I can't connect to the internet
+   A: Restart your router, check cables, or reconnect to Wi-Fi.
+
+25. Q: Black screen after login
+   A: Try Safe Mode or rollback display drivers.
+
+26. Q: Can't access BIOS
+   A: Press correct key (like F2, Del) during startup.
+
+27. Q: Can't open Task Manager
+   A: Use Ctrl+Shift+Esc or Safe Mode.
+
+28. Q: Computer restarts randomly
+   A: Check for overheating or hardware issues.
+
+29. Q: I can't connect to the internet
+   A: Restart your router, check cables, or reconnect to Wi-Fi.
+
+30. Q: VPN isn't connecting
+   A: Restart the VPN client and check credentials.
+
+31. Q: Camera not detected
+   A: Check drivers and privacy settings.
+
+32. Q: My computer is running slow
+   A: Close unused programs, clear temporary files, and scan for malware.
+
+33. Q: My keyboard isn't working
+   A: Reconnect it or try another port. Replace batteries if wireless.
+
+34. Q: Slow boot time
+   A: Disable startup programs.
+
+35. Q: Black screen after login
+   A: Try Safe Mode or rollback display drivers.
+
+36. Q: I forgot my Windows password
+   A: Use password reset disk or contact IT.
+
+37. Q: System clock is wrong
+   A: Sync with internet time or replace CMOS battery.
+
+38. Q: My computer is running slow
+   A: Close unused programs, clear temporary files, and scan for malware.
+
+39. Q: Can't access shared network drive
+   A: Check permissions and network visibility.
+
+40. Q: Battery drains quickly
+   A: Check background apps and reduce screen brightness.
+
+41. Q: I can't open websites
+   A: Check internet connection, clear browser cache.
+
+42. Q: Unusual noise from PC
+   A: Check for dust in fans or failing hard drive.
+
+43. Q: Can't project screen
+   A: Use Win+P and ensure the cable is connected.
+
+44. Q: USB device not recognized
+   A: Reconnect or update drivers.
+
+45. Q: Camera not detected
+   A: Check drivers and privacy settings.
+
+46. Q: My keyboard isn't working
+   A: Reconnect it or try another port. Replace batteries if wireless.
+
+47. Q: Black screen after login
+   A: Try Safe Mode or rollback display drivers.
+
+48. Q: VPN isn't connecting
+   A: Restart the VPN client and check credentials.
+
+49. Q: Files disappeared
+   A: Search for files or check if hidden.
+
+50. Q: Unable to update Windows
+   A: Run Windows Update Troubleshooter.
+
+51. Q: Camera not detected
+   A: Check drivers and privacy settings.
+
+52. Q: I forgot my Windows password
+   A: Use password reset disk or contact IT.
+
+53. Q: I forgot my Windows password
+   A: Use password reset disk or contact IT.
+
+54. Q: PC overheating
+   A: Clean the fans and ensure proper ventilation.
+
+55. Q: My mouse is unresponsive
+   A: Try another USB port or replace batteries.
+
+56. Q: Too many pop-ups
+   A: Scan for malware or use a pop-up blocker.
+
+57. Q: Battery drains quickly
+   A: Check background apps and reduce screen brightness.
+
+58. Q: Black screen after login
+   A: Try Safe Mode or rollback display drivers.
+
+59. Q: My computer is running slow
+   A: Close unused programs, clear temporary files, and scan for malware.
+
+60. Q: Audio is not working
+   A: Check volume, output device, and reinstall audio drivers.
+
+61. Q: Outlook won't open
+   A: Try Safe Mode or repair Office.
+
+62. Q: Keyboard typing wrong characters
+   A: Check input language settings.
+
+63. Q: Outlook won't open
+   A: Try Safe Mode or repair Office.
+
+64. Q: Audio is not working
+   A: Check volume, output device, and reinstall audio drivers.
+
+65. Q: PC overheating
+   A: Clean the fans and ensure proper ventilation.
+
+66. Q: PC overheating
+   A: Clean the fans and ensure proper ventilation.
+
+67. Q: Files disappeared
+   A: Search for files or check if hidden.
+
+68. Q: Slow boot time
+   A: Disable startup programs.
+
+69. Q: Files disappeared
+   A: Search for files or check if hidden.
+
+70. Q: Slow boot time
+   A: Disable startup programs.
+
+71. Q: VPN isn't connecting
+   A: Restart the VPN client and check credentials.
+
+72. Q: Can't project screen
+   A: Use Win+P and ensure the cable is connected.
+
+73. Q: I forgot my Windows password
+   A: Use password reset disk or contact IT.
+
+74. Q: Camera not detected
+   A: Check drivers and privacy settings.
+
+75. Q: Can't open Task Manager
+   A: Use Ctrl+Shift+Esc or Safe Mode.
+
+76. Q: Camera not detected
+   A: Check drivers and privacy settings.
+
+77. Q: Can't install software
+   A: Ensure admin rights and enough disk space.
+
+78. Q: I keep getting blue screen errors
+   A: Check for hardware issues or outdated drivers.
+
+79. Q: Camera not detected
+   A: Check drivers and privacy settings.
+
+80. Q: Audio is not working
+   A: Check volume, output device, and reinstall audio drivers.
+
+81. Q: Computer restarts randomly
+   A: Check for overheating or hardware issues.
+
+82. Q: My screen is frozen
+   A: Try Ctrl+Alt+Del to open Task Manager and end the unresponsive task.
+
+83. Q: Unusual noise from PC
+   A: Check for dust in fans or failing hard drive.
+
+84. Q: I forgot my Windows password
+   A: Use password reset disk or contact IT.
+
+85. Q: Too many pop-ups
+   A: Scan for malware or use a pop-up blocker.
+
+86. Q: Camera not detected
+   A: Check drivers and privacy settings.
+
+87. Q: I can't connect to the internet
+   A: Restart your router, check cables, or reconnect to Wi-Fi.
+
+88. Q: Outlook won't open
+   A: Try Safe Mode or repair Office.
+
+89. Q: Keyboard typing wrong characters
+   A: Check input language settings.
+
+90. Q: My printer is not working
+   A: Check power, connections, and reinstall the driver.
+
+91. Q: Slow boot time
+   A: Disable startup programs.
+
+92. Q: My screen is frozen
+   A: Try Ctrl+Alt+Del to open Task Manager and end the unresponsive task.
+
+93. Q: My computer is running slow
+   A: Close unused programs, clear temporary files, and scan for malware.
+
+94. Q: System clock is wrong
+   A: Sync with internet time or replace CMOS battery.
+
+95. Q: Keyboard typing wrong characters
+   A: Check input language settings.
+
+96. Q: Can't access shared network drive
+   A: Check permissions and network visibility.
+
+97. Q: VPN isn't connecting
+   A: Restart the VPN client and check credentials.
+
+98. Q: Computer restarts randomly
+   A: Check for overheating or hardware issues.
+
+99. Q: I can't open websites
+   A: Check internet connection, clear browser cache.
+
+100. Q: Unable to update Windows
+   A: Run Windows Update Troubleshooter.
+

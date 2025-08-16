@@ -1,0 +1,77 @@
+{% extends "maintenancehome.html" %}
+
+{% block pagehead %}
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='CSSFiles/attendance.css') }}"> 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<style>
+  body {
+    background: url("{{ url_for('static', filename='Media/backgroundImage.jpg') }}") no-repeat center center/cover fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+</style>
+
+{% endblock pagehead%}
+
+{% block rest %}
+
+<div class="homePage">
+
+    <!-- {# input form to submit orders#} -->
+    <div class="homeform">
+        <form  method="POST" action=" {{ url_for('home')}}" onsubmit="return validateInputForm()">
+            
+            <!-- Label and Dropdown -->
+            <label for="ticketId">Enter Ticket Id:</label>
+            <input type="number" id="ticketId" name="ticketId" placeholder="Enter Ticket Id" required>
+
+            <!-- Label and Dropdown -->
+            <label for="status">Ticket Status:</label>
+            <select class="status" id="status" name="status" required>
+                <option value="" >-- Select --</option>
+                <option name="status" value="Solved">Solved</option>
+                <option name="status" value="Un Solved">Un Solved</option>
+            </select>
+
+            <input type="submit" value="Submit">
+    
+        </form>
+    
+    </div>
+    {# table to display orders#}
+    <div class="orders">
+        
+        <table class="order_table" id="order_table">
+            <caption>Tickets Table</caption>
+            <thead>
+                <tr>
+                  <th scope="col">Ticket Id </th>
+                  <th scope="col">User Name </th>
+                  <th scope="col">Place</th>
+                  <th scope="col">Issue</th>
+                  <th scope="col">Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for i in range(0, numberOfRows) %}
+                    <tr>
+                        <td value="{{rows[i][0]}}">{{rows[i][0]}}</td>
+                        <td value="{{rows[i][1]}}">{{rows[i][1]}}</td>
+                        <td value="{{rows[i][2]}}">{{rows[i][2]}}</td>
+                        <td value="{{rows[i][3]}}">{{rows[i][3]}}</td>
+                        <td value="{{rows[i][4]}}">{{rows[i][4]}}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+      
+    </div>
+
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,311 @@
+[General Computer Issues (20 Questions)]
+
+Q: My computer is running very slowly. What should I do?
+A: Try these steps: 1) Close unused programs, 2) Check Task Manager for resource-heavy processes, 3) Run disk cleanup, 4) Scan for malware, 5) Consider upgrading RAM if consistently slow.
+
+Q: My computer won't turn on at all. What could be wrong?
+A: Check: 1) Power cable connections, 2) Power outlet functionality, 3) If laptop, try removing battery and using charger only, 4) Listen for beep codes indicating hardware issues.
+
+Q: Why does my computer keep freezing?
+A: Common causes: 1) Insufficient RAM, 2) Overheating (clean vents/fans), 3) Driver issues, 4) Hard drive failure, 5) Malware infection.
+
+Q: My computer randomly restarts. How can I fix this?
+A: Possible solutions: 1) Check for overheating, 2) Test RAM with MemTest86, 3) Update drivers, 4) Check Windows Event Viewer for errors, 5) Scan for malware.
+
+Q: How often should I restart my computer?
+A: For optimal performance, restart at least once a week. Servers can run longer, but regular computers benefit from clearing memory and applying updates.
+
+Q: My computer makes strange noises. What do they mean?
+A: Common sounds: 1) Clicking - possible hard drive failure, 2) Grinding - fan issues, 3) Beeping - hardware error codes, 4) Buzzing - coil whine or electrical issues.
+
+Q: Why is my computer so loud?
+A: Likely causes: 1) Dusty fans running at high speed, 2) Heavy processing load, 3) Failing fan bearings, 4) Incorrect fan curve settings in BIOS.
+
+Q: How can I make my computer quieter?
+A: Solutions: 1) Clean dust from fans/vents, 2) Replace stock fans with quieter models, 3) Use SSD instead of HDD, 4) Adjust fan curves, 5) Ensure proper airflow.
+
+Q: My computer smells like burning. What should I do?
+A: Immediately power off and: 1) Check for visible damage/smoke, 2) Inspect power supply, 3) Look for melted components, 4) Consult a professional - this is serious.
+
+Q: How do I clean my computer properly?
+A: Safe cleaning: 1) Power off completely, 2) Use compressed air for dust, 3) Isopropyl alcohol for surfaces, 4) Avoid liquids near components, 5) Don't use vacuum cleaners.
+
+Q: Why does my computer take so long to boot?
+A: Common reasons: 1) Too many startup programs, 2) Fragmented HDD (defragment), 3) Failing hard drive, 4) Outdated BIOS, 5) Virus/malware infection.
+
+Q: How can I speed up my computer's boot time?
+A: Improvements: 1) Disable unnecessary startup programs, 2) Upgrade to SSD, 3) Increase RAM, 4) Keep drivers updated, 5) Perform regular maintenance.
+
+Q: My computer clock is always wrong. How to fix?
+A: Solutions: 1) Replace CMOS battery on motherboard, 2) Sync with internet time server, 3) Check time zone settings, 4) Update BIOS if issue persists.
+
+Q: Why is my computer not recognizing USB devices?
+A: Troubleshooting: 1) Try different USB port, 2) Test with another device, 3) Update USB drivers, 4) Check Device Manager for errors, 5) Disable USB selective suspend.
+
+Q: How do I know if my computer is overheating?
+A: Signs: 1) Unexpected shutdowns, 2) Fan constantly at high speed, 3) Performance throttling, 4) Hot to touch. Use tools like HWMonitor to check temps.
+
+Q: What temperature is too hot for my CPU?
+A: Generally: 1) Below 60°C ideal, 2) 60-80°C acceptable under load, 3) Above 85°C concerning, 4) Over 95°C dangerous - check cooling immediately.
+
+Q: How often should I replace thermal paste?
+A: Recommendation: 1) Every 2-3 years for heavy use, 2) When temperatures increase noticeably, 3) After removing cooler, 4) Use quality paste like Arctic MX-4.
+
+Q: Why does my computer crash when playing games?
+A: Likely causes: 1) GPU overheating, 2) Insufficient PSU power, 3) Outdated drivers, 4) Game-specific bugs, 5) Overclocking instability.
+
+Q: How can I check my computer's specifications?
+A: Methods: 1) Windows: System Information (msinfo32), 2) Task Manager Performance tab, 3) Third-party tools like CPU-Z, 4) Command: dxdiag.
+
+Q: What's the difference between SSD and HDD?
+A: Comparison: 1) SSD - faster, more expensive, no moving parts, 2) HDD - slower, cheaper, higher capacity, mechanical parts. SSDs recommended for OS/programs.
+
+[Hardware Issues (20 Questions)]
+
+Q: My monitor displays "No Signal". What should I do?
+A: 1) Check video cable connections, 2) Try different cable/port, 3) Test monitor with another device, 4) Ensure correct input source selected.
+
+Q: My screen has dead pixels. Can they be fixed?
+A: Sometimes: 1) Try pixel fixing software, 2) Gently massage area (risky), 3) Most manufacturers only replace for multiple dead pixels, 4) May need panel replacement.
+
+Q: Why is my screen flickering?
+A: Potential causes: 1) Loose cable connection, 2) Outdated graphics drivers, 3) Refresh rate mismatch, 4) Failing GPU, 5) Incompatible applications.
+
+Q: How do I connect my computer to a TV?
+A: Methods: 1) HDMI is simplest, 2) DisplayPort to HDMI adapter if needed, 3) Configure as extended/duplicate display in settings, 4) Adjust TV input source.
+
+Q: My keyboard isn't working properly. How to fix?
+A: Troubleshooting: 1) Try different USB port, 2) Test on another computer, 3) Check for stuck keys, 4) Update drivers, 5) Clean under keys if spills occurred.
+
+Q: My mouse is jumpy/unresponsive. What's wrong?
+A: Solutions: 1) Clean sensor/laser area, 2) Try different surface/mousepad, 3) Replace batteries if wireless, 4) Update drivers, 5) Check for interference.
+
+Q: Why is my external hard drive not showing up?
+A: Fixes: 1) Try different USB port/cable, 2) Check Disk Management, 3) Assign drive letter if needed, 4) Update USB drivers, 5) Test on another computer.
+
+Q: How can I recover data from a dead hard drive?
+A: Options: 1) Professional data recovery service (expensive), 2) Try connecting as secondary drive, 3) Freezer method (temporary fix), 4) Specialized recovery software.
+
+Q: My computer doesn't recognize my new RAM. Why?
+A: Possible reasons: 1) Incompatible type/speed, 2) Not seated properly, 3) BIOS needs update, 4) Exceeds motherboard limits, 5) One stick may be faulty.
+
+Q: How much RAM do I really need?
+A: Recommendations: 1) 8GB minimum for Windows 10/11, 2) 16GB ideal for most users, 3) 32GB+ for gaming/content creation, 4) More helps with multitasking.
+
+Q: Why is my GPU not performing well?
+A: Check: 1) Temperature/throttling, 2) Driver updates, 3) Power supply adequate, 4) Correct PCIe slot used, 5) Game settings too high for hardware.
+
+Q: My computer beeps when starting. What does it mean?
+A: Beep codes vary by manufacturer but generally: 1) Continuous - RAM issue, 2) Short beeps - different counts indicate different hardware problems. Check motherboard manual.
+
+Q: How do I know if my power supply is failing?
+A: Signs: 1) Random shutdowns, 2) Burning smell, 3) Inconsistent power, 4) Strange noises, 5) Failure to power on. Test with PSU tester if unsure.
+
+Q: Why is my Ethernet connection not working?
+A: Troubleshooting: 1) Check cable connections, 2) Try different port/cable, 3) Update network drivers, 4) Check router settings, 5) Test with another device.
+
+Q: My Bluetooth isn't working. How to fix?
+A: Solutions: 1) Ensure Bluetooth is enabled, 2) Update drivers, 3) Restart Bluetooth service, 4) Remove/re-pair devices, 5) Check for physical switch on laptop.
+
+Q: Why is my webcam not detected?
+A: Fixes: 1) Check privacy settings, 2) Update drivers, 3) Try different USB port, 4) Test with another app, 5) Ensure not disabled in Device Manager.
+
+Q: My microphone isn't picking up sound. What to do?
+A: Troubleshooting: 1) Check privacy settings, 2) Ensure correct input selected, 3) Test with another app, 4) Update audio drivers, 5) Check physical mute switch.
+
+Q: How do I connect multiple monitors?
+A: Setup: 1) Ensure GPU supports multiple displays, 2) Connect monitors, 3) Configure in Display Settings, 4) Choose extend/duplicate mode, 5) Adjust resolution.
+
+Q: Why is my CD/DVD drive not working?
+A: Possible fixes: 1) Update drivers, 2) Check Device Manager for errors, 3) Try different disc, 4) Clean laser lens, 5) May need replacement if old.
+
+Q: My computer case has static electricity. Is this normal?
+A: Some static is normal but excessive static can damage components. Ensure: 1) Proper grounding, 2) Use anti-static mat when working inside, 3) Touch metal case before components.
+
+[Software Issues (20 Questions)]
+
+Q: I can't connect to WiFi. What should I try?
+A: Troubleshooting: 1) Restart router/modem, 2) Forget and reconnect, 3) Update drivers, 4) Check airplane mode, 5) Run network troubleshooter, 6) Reset TCP/IP.
+
+Q: Why am I getting blue screen errors (BSOD)?
+A: Common causes: 1) Faulty RAM, 2) Driver conflicts, 3) Disk errors, 4) Overheating, 5) Recent changes. Note error code for specific diagnosis.
+
+Q: My computer says I'm out of disk space. How to fix?
+A: Solutions: 1) Disk Cleanup, 2) Uninstall unused programs, 3) Clear browser cache, 4) Move files to external drive, 5) Disable hibernation (powercfg -h off).
+
+Q: How do I uninstall programs completely?
+A: Proper removal: 1) Use Settings > Apps, 2) Use program's own uninstaller, 3) Check for leftover files in Program Files, 4) Clean registry (carefully), 5) Tools like Revo Uninstaller help.
+
+Q: Why are my files opening with wrong programs?
+A: To fix: 1) Right-click file > Open With > Choose default, 2) Change file associations in Settings, 3) Reinstall correct program, 4) Edit registry if needed.
+
+Q: How can I recover deleted files?
+A: Options: 1) Check Recycle Bin, 2) File History/Time Machine, 3) Stop using drive immediately, 4) Recovery software, 5) Professional service for critical data.
+
+Q: Why is my antivirus using so much CPU?
+A: Possible reasons: 1) Full system scan running, 2) Real-time protection active, 3) Conflict with other security software, 4) Malware infection, 5) Need update.
+
+Q: How do I stop so many background processes?
+A: Management: 1) Task Manager > Startup tab, 2) Disable unnecessary startups, 3) Services.msc to disable non-critical services, 4) Clean install helps.
+
+Q: Why does my browser keep crashing?
+A: Solutions: 1) Clear cache/cookies, 2) Disable extensions, 3) Update browser, 4) Reset settings, 5) Check for conflicting software, 6) Try different browser.
+
+Q: How can I make my browser faster?
+A: Improvements: 1) Limit open tabs, 2) Use ad blocker, 3) Clear cache regularly, 4) Disable unused extensions, 5) Enable hardware acceleration, 6) Consider lighter browser.
+
+Q: Why can't I print from my computer?
+A: Troubleshooting: 1) Check connections, 2) Verify paper/jams, 3) Reinstall drivers, 4) Clear print queue, 5) Test with different document, 6) Check default printer.
+
+Q: How do I share files between computers?
+A: Methods: 1) Network sharing, 2) Cloud services, 3) USB drive, 4) Direct cable connection, 5) FTP, 6) Email for small files. Ensure proper security.
+
+Q: Why is my sound not working?
+A: Fixes: 1) Check volume/mute, 2) Verify correct playback device, 3) Update audio drivers, 4) Check cable connections, 5) Test with headphones, 6) Restart audio service.
+
+Q: How do I take a screenshot?
+A: Methods: 1) Print Screen key, 2) Windows+Shift+S (Windows), 3) Command+Shift+3/4 (Mac), 4) Snipping Tool, 5) Third-party apps for advanced features.
+
+Q: Why is my video playback choppy?
+A: Solutions: 1) Update graphics drivers, 2) Enable hardware acceleration, 3) Close other programs, 4) Lower video quality, 5) Check internet speed for streaming.
+
+Q: How do I password protect a folder?
+A: Options: 1) Use built-in encryption (BitLocker), 2) Create password-protected ZIP, 3) Third-party software, 4) Set permissions, 5) Note: not foolproof security.
+
+Q: Why won't my external drive eject?
+A: Causes: 1) Files in use, 2) Programs accessing drive, 3) Explorer windows open, 4) Antivirus scanning, 5) System processes. Close all programs or restart.
+
+Q: How do I fix corrupted files?
+A: Attempts: 1) System File Checker (sfc /scannow), 2) CHKDSK for disk errors, 3) Restore from backup, 4) Reinstall related software, 5) Download fresh copy.
+
+Q: Why is my download speed so slow?
+A: Check: 1) Internet plan limits, 2) Test speed at speedtest.net, 3) Close bandwidth-heavy apps, 4) Try wired connection, 5) Contact ISP if consistently slow.
+
+Q: How do I stop so many update notifications?
+A: Management: 1) Configure active hours in Windows, 2) Schedule updates, 3) Group Policy for enterprises, 4) Don't delay security updates, 5) Some notifications necessary.
+
+[Operating System Issues (20 Questions)]
+
+Q: Windows updates keep failing. How to fix?
+A: Try: 1) Windows Update Troubleshooter, 2) Clear SoftwareDistribution folder, 3) Check disk for errors, 4) Reset Windows Update components, 5) Manually download updates.
+
+Q: My Mac won't boot past Apple logo. What to do?
+A: Solutions: 1) Safe mode (hold Shift), 2) Disk First Aid in Recovery, 3) Reset NVRAM, 4) Reinstall macOS, 5) Apple Store for hardware checks.
+
+Q: Linux won't recognize my new hardware. How to fix?
+A: Possible solutions: 1) Update kernel, 2) Install proprietary drivers, 3) Check dmesg for errors, 4) Research hardware compatibility, 5) Try different kernel parameters.
+
+Q: How do I reinstall my operating system?
+A: General steps: 1) Backup data, 2) Create installation media, 3) Boot from media, 4) Follow prompts, 5) Reinstall drivers/programs. Process varies by OS.
+
+Q: Why does my computer say "Operating System Not Found"?
+A: Causes: 1) Boot order incorrect, 2) Hard drive failure, 3) Corrupted bootloader, 4) Disconnected drive, 5) Partition table issues. Check BIOS settings first.
+
+Q: How do I dual boot Windows and Linux?
+A: Process: 1) Backup data, 2) Create partitions, 3) Install Windows first, 4) Then install Linux, 5) Use GRUB bootloader. Research specific distribution guides.
+
+Q: Why is my taskbar/search not working?
+A: Fixes: 1) Restart Explorer.exe, 2) Create new user profile, 3) Run DISM and SFC scans, 4) Check for corruptions, 5) System restore if recent issue.
+
+Q: How do I access BIOS/UEFI settings?
+A: Methods: 1) Common keys: Del, F2, F10, F12, 2) Windows: Settings > Recovery > Advanced startup, 3) Must press during initial boot sequence.
+
+Q: My screen resolution looks wrong. How to fix?
+A: Adjustments: 1) Right-click desktop > Display settings, 2) Update graphics drivers, 3) Check monitor native resolution, 4) Ensure correct scaling set, 5) Test different resolutions.
+
+Q: Why are my fonts appearing incorrectly?
+A: Solutions: 1) Clear font cache, 2) Reinstall affected fonts, 3) Check display scaling, 4) Update graphics drivers, 5) System restore if recent change.
+
+Q: How do I create a system restore point?
+A: Windows: 1) Search "Create restore point", 2) Configure protection, 3) Create manually. Mac: Use Time Machine. Linux: Depends on distribution/backup tools.
+
+Q: Why is my Start Menu not working?
+A: Troubleshooting: 1) Restart Explorer.exe, 2) Create new user account, 3) Run Windows troubleshooter, 4) PowerShell commands to reinstall Start menu, 5) System restore.
+
+Q: How do I change my default programs?
+A: Methods: 1) Settings > Apps > Default apps, 2) Right-click file > Open With > Choose default, 3) Some programs set defaults during installation.
+
+Q: Why is my language/keyboard layout wrong?
+A: Fixes: 1) Check language settings, 2) Remove unwanted keyboard layouts, 3) Verify physical keyboard matches settings, 4) Update input method, 5) Check for stuck keys.
+
+Q: How do I enable Dark Mode?
+A: Windows: Settings > Personalization > Colors. Mac: System Preferences > General. Linux: Depends on desktop environment, often in Appearance settings.
+
+Q: Why is my touchpad not working?
+A: Solutions: 1) Check for physical disable switch, 2) Update drivers, 3) Check settings for sensitivity, 4) Clean touchpad surface, 5) Try external mouse to diagnose.
+
+Q: How do I check for driver updates?
+A: Methods: 1) Device Manager > right-click device > Update, 2) Manufacturer's website, 3) Windows Update, 4) Third-party tools (caution), 5) Driver-specific update utilities.
+
+Q: Why is my computer not sleeping properly?
+A: Check: 1) Power settings, 2) Running processes preventing sleep, 3) Network activity, 4) Peripheral devices, 5) powercfg -requests to identify blockers.
+
+Q: How do I extend my C: drive?
+A: Requirements: 1) Unallocated space adjacent, 2) Use Disk Management, 3) May need to shrink other partitions first, 4) Third-party tools for complex scenarios, 5) Backup first.
+
+Q: Why is my system using so much RAM?
+A: Analysis: 1) Check Task Manager, 2) Identify memory-hungry processes, 3) Consider adding more RAM, 4) Check for memory leaks, 5) Some caching is normal.
+
+[Security & Privacy (10 Questions)]
+
+Q: I think my computer has a virus. What should I do?
+A: Immediate steps: 1) Run full antivirus scan, 2) Boot in safe mode, 3) Change important passwords, 4) Check for unusual processes, 5) Consider clean install if severe.
+
+Q: How can I protect my computer from malware?
+A: Best practices: 1) Keep software updated, 2) Use reputable antivirus, 3) Avoid suspicious links, 4) Regular backups, 5) Standard user account for daily use, 6) Enable firewall.
+
+Q: How do I create a strong password?
+A: Tips: 1) Minimum 12 characters, 2) Mix letters, numbers, symbols, 3) Avoid dictionary words, 4) Don't reuse passwords, 5) Consider password manager, 6) Enable 2FA.
+
+Q: Why am I getting so many phishing emails?
+A: Protection: 1) Don't engage with suspicious emails, 2) Mark as spam, 3) Use email filters, 4) Never click unexpected links, 5) Educate yourself on common scams.
+
+Q: How do I know if a website is safe?
+A: Indicators: 1) HTTPS (not just HTTP), 2) Valid certificate, 3) Reputable domain, 4) No browser warnings, 5) Check reviews/Whois, 6) Trust your instincts.
+
+Q: Should I use a VPN?
+A: Considerations: 1) Yes for public WiFi, 2) Helps with privacy, 3) May slow speeds, 4) Choose reputable provider, 5) Not complete anonymity, 6) Legal in most countries.
+
+Q: How do I remove malware completely?
+A: Steps: 1) Boot in safe mode, 2) Run multiple scanners (Malwarebytes, etc.), 3) Check browser extensions, 4) Reset browsers, 5) Monitor for recurrence, 6) Consider clean install.
+
+Q: Why is my webcam light on when not in use?
+A: Investigation: 1) Check running applications, 2) Scan for malware, 3) Cover webcam when not needed, 4) Review privacy settings, 5) Disable in Device Manager if concerned.
+
+Q: How do I securely wipe a hard drive?
+A: Methods: 1) DBAN for HDDs, 2) ATA Secure Erase for SSDs, 3) Multiple passes for sensitive data, 4) Physical destruction for highest security, 5) Verify erasure.
+
+Q: What's the difference between virus and malware?
+A: Explanation: Virus is specific type of malware that replicates. Malware is umbrella term including viruses, worms, trojans, ransomware, spyware, adware, etc.
+
+[Laptop Specific Issues (10 Questions)]
+
+Q: My laptop battery drains very quickly. How to improve?
+A: Battery saving: 1) Reduce brightness, 2) Close background apps, 3) Check battery health, 4) Use power saver mode, 5) Disable unnecessary startups, 6) Update drivers.
+
+Q: My laptop overheats frequently. Is this dangerous?
+A: Risks: Overheating can damage components. Solutions: 1) Clean vents/fans, 2) Use on hard surfaces, 3) Cooling pad, 4) Replace thermal paste, 5) Monitor temps.
+
+Q: Why does my laptop screen have lines/artifacts?
+A: Possible causes: 1) Loose display cable, 2) Failing GPU, 3) Damaged LCD panel, 4) Driver issues, 5) Memory problems. Test with external monitor to diagnose.
+
+Q: How can I improve my laptop's gaming performance?
+A: Enhancements: 1) Lower game settings, 2) Ensure adequate cooling, 3) Close background apps, 4) Update graphics drivers, 5) Consider external GPU if supported.
+
+Q: My laptop keyboard types wrong characters. Why?
+A: Fixes: 1) Check Num Lock status, 2) Verify language/keyboard layout, 3) Clean under keys, 4) Update drivers, 5) Test with external keyboard, 6) May need replacement.
+
+Q: Why won't my laptop charge when plugged in?
+A: Troubleshooting: 1) Try different power outlet, 2) Check charger connections, 3) Test with another charger, 4) Battery may need replacement, 5) Could be DC jack issue.
+
+Q: How do I clean my laptop keyboard?
+A: Safe cleaning: 1) Power off, 2) Use compressed air between keys, 3) Slightly damp cloth for surfaces, 4) Avoid liquids, 5) Consider keyboard cover for prevention.
+
+Q: Why is my laptop fan always loud?
+A: Common causes: 1) Dust clogging vents, 2) High CPU load, 3) Poor ventilation, 4) Failing fan, 5) Incorrect power settings. Clean internals and check processes.
+
+Q: How do I connect my laptop to a projector?
+A: Methods: 1) HDMI or VGA cable, 2) Wireless options if supported, 3) Windows+P to change projection mode, 4) Adjust resolution if needed, 5) Install projector drivers.
+
+Q: Should I remove my laptop battery when plugged in?
+A: Modern laptops: Usually not necessary as they stop charging at 100%. Older laptops: May help preserve battery if unused for long periods. Check manufacturer guidelines.

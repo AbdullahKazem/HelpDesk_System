@@ -1,0 +1,333 @@
+.inputPage{
+    display: flex;
+    height: auto;
+    /* border: 1px solid red; */
+}
+.inputform{
+    width: 30%;
+    height: auto;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    background-color: none;
+    /* border: 1px solid red; */
+}
+
+.productname{
+    width: 100%;
+    height: 35px;
+    margin-left: 1px;
+}
+       
+/* Style for labels */
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+    
+/* Style for textboxes and dropdown */
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+
+input:-webkit-autofill {
+  background-color: transparent !important;
+  -webkit-box-shadow: 0 0 0 1000px transparent inset !important;
+  -webkit-text-fill-color: #000 !important; /* or your desired text color */
+}
+
+select {
+    width: 100%;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    background-color: transparent;
+
+}
+
+select:-webkit-autofill {
+  background-color: transparent !important;
+  -webkit-box-shadow: 0 0 0 1000px transparent inset !important;
+  -webkit-text-fill-color: #000 !important; /* or your desired text color */
+}
+
+
+/* Style for the submit button */
+input[type="submit"] {
+    background-color: #b1d8e3;
+    color: rgb(11, 10, 10);
+    cursor: pointer;
+}
+    
+input[type="submit"]:hover {
+    background-color: #4583a0;
+}
+
+.orders{
+    width: 50%;
+    height: auto;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 0px;
+    
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    background-color: none;
+}
+
+.order_table {
+    width: 90%;
+    /* margin-left: 25px; */
+    margin-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    border-collapse: collapse;
+}
+  
+.order_table tbody tr:nth-child(even){
+    background-color: #f9f9f917;
+}
+
+.order_table caption {
+    margin-bottom: 0.5em;
+    font-size: 1.25em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.order_table th,
+.order_table td {
+    padding: 5px;
+    font-size: 20px; 
+    text-align: center;
+    border: 1px solid black;
+}
+
+.order_table td{
+    padding: 15px;
+}
+
+.order_table th {
+    background-color: #201f1f44;
+}
+
+.order_table tbody tr:hover {
+    background-color: #eaf2ff;
+}
+
+
+td {
+    max-width: 150px;
+    white-space: normal;        /* allow wrapping */
+    word-wrap: break-word;      /* break long words if needed */
+}
+
+
+/* ---------------------------------------------------------- stoppage reason style  ------------------------------------------------------------------- */
+.reasonContainer
+{
+    /* width: 1050px; */
+    width: 85%;
+    position: relative;
+    /* top: 450px; */
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 0px;
+    /* border: 1px solid red; */
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    background-color: #fff;
+}
+.reasonTable{
+  width: 100%;
+  padding: 5%;
+}
+.reasonTable tr{
+  text-align:center;
+  padding: 5%;
+}
+.reasonTable td
+{
+    padding: 15px;
+}
+#submitChange
+{
+position: relative;;
+background-color:#b1d8e3;
+width:10%;
+left: 50%;
+transform: translate(-50%, -50%);
+height: 30px;
+color: rgb(11, 10, 10);
+cursor: pointer;
+}
+#submitChange:hover
+{
+background-color:#4583a0;
+
+}
+.selectReason {
+  cursor: pointer;
+  color: #fff;
+  background-color: #72e3ef;
+  color: black;
+  border-radius: 3px;
+  overflow: hidden;
+  border: none;
+  font-size: 110%;
+  width:50%;
+}
+.selectReason:focus
+{
+  background-color: #b1d8e3;
+  outline: none;
+}
+/* ---------------------------------------------------------------------------------------------- */
+
+/* ---------------------------------------------------------------------------------------------- */
+@media (max-width: 1245px) and (min-width: 900px){
+    .order_table th,
+    .order_table td {
+        padding: 3px;
+        font-size: 20px; 
+        text-align: center;
+        border: 1px solid black;
+    }
+}
+
+@media (max-width: 900px) and (min-width: 600px){
+    .inputform{
+        height: auto;
+    }
+    
+    .order_table th,
+    .order_table td {
+        padding: 0px;
+        font-size: 20px; 
+        text-align: center;
+        border: 1px solid black;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .inputPage{
+        display: block  ;
+    }
+    .inputform{
+        position: relative;
+        /* transform: translate(-50%, -50%); */
+        width: 80%;
+        margin-top: 10px;
+        z-index: 0;
+        margin-left: 15px;
+        padding: 20px;
+        border: 1px solid #ddd;
+        /* border: 1px solid red; */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        background-color: #fff;
+    }
+    .orders{
+        position: relative;
+        margin-top: 10px;
+        width: 90%;
+        height: auto;
+        left: 20px;
+        margin-left: 0px;
+        padding: 20px;
+        border: 1px solid #ddd;
+
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        background-color: #fff;
+    }
+    
+    .order_table {
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 10px;
+        margin-bottom: 15px;
+        padding-bottom: 2px;
+        padding-top: 2px;
+        border-collapse: collapse;
+    }
+      
+    .order_table tbody tr:nth-child(even){
+        background-color: #f9f9f917;
+    }
+    
+    .order_table caption {
+        margin-bottom: 0.5em;
+        font-size: 1.0em;
+        font-weight: bold;
+        text-align: center;
+    }
+    
+    .order_table th,
+    .order_table td {
+        padding: 5px;
+        font-size: 13px; 
+        text-align: center;
+        border: 1px solid black;
+    }
+    
+    .order_table th {
+        background-color: #201f1f44;
+    }
+    
+    .order_table tbody tr:hover {
+        background-color: #eaf2ff;
+    }
+    .reasonContainerContainer{
+    /* width: 1050px; */
+        width: 90%;
+        position: absolute;
+        top: 850px;
+        margin-top: 20px;
+        margin-left: 15px;
+        padding: 0px;
+        /* border: 1px solid red; */
+        border: 1px solid #ddd;
+        /* border: 1px solid red; */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        background-color: #fff;
+    }
+    #submitChange{
+        position: relative;;
+        border:0;
+        background-color:#80deea;
+        width:auto;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 30px;
+    }
+    #submitChange:hover{
+        background-color:#4583a0;
+    }   
+    .undoButton{
+        display: inline-block;
+        margin-left: 60%;
+        position: absolute;
+        margin-top: -40px;
+        width: 20%;
+        height: 30px;
+        background-color: #b1d8e3;
+        font-size: 16px;
+        text-align: center;
+    }  
+}
+

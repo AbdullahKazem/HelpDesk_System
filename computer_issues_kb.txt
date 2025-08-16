@@ -1,0 +1,30 @@
+Q: My computer is running slow
+A: Try closing unnecessary programs, cleaning up disk space, and restarting your system. Also check for malware or background updates.
+
+Q: I can't connect to the internet
+A: Make sure the Wi-Fi is turned on and connected. Restart your router or try using a different network.
+
+Q: My screen is frozen
+A: Try pressing Ctrl + Alt + Delete and select Task Manager to end the unresponsive task. If that doesn't work, force restart your PC.
+
+Q: I forgot my Windows password
+A: Try using the password reset option or contact IT support for help resetting your account.
+
+Q: My printer is not working
+A: Ensure the printer is powered on and connected to the network. Check printer drivers or reinstall them.
+
+Q: I keep getting blue screen errors
+A: Blue screen errors often indicate hardware or driver issues. Note the error code and check it online or contact IT support.
+
+Q: My keyboard or mouse isn't working
+A: Check the connection (wired or wireless), replace batteries, or try another USB port.
+
+Q: VPN is not connecting
+A: Make sure your internet is working, restart the VPN client, and check if credentials are correct.
+
+Q: Outlook won't open
+A: Try restarting your PC. You can also run Outlook in Safe Mode or repair the Office installation.
+
+Q: I can't open websites
+A: Try a different browser. Clear the cache, check DNS settings, or reset your network adapter.
+

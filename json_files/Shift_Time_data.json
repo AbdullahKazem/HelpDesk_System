@@ -1,0 +1,128 @@
+[
+    {
+        "shiftday": 0,
+        "shiftname": "First Shift",
+        "starttime": "08:00",
+        "endtime": "16:00"
+    },
+    {
+        "shiftday": 0,
+        "shiftname": "Second Shift",
+        "starttime": "16:00",
+        "endtime": "00:00"
+    },
+    {
+        "shiftday": 0,
+        "shiftname": "Third Shift",
+        "starttime": "00:00",
+        "endtime": "08:00"
+    },
+    {
+        "shiftday": 1,
+        "shiftname": "First Shift",
+        "starttime": "08:00",
+        "endtime": "16:00"
+    },
+    {
+        "shiftday": 1,
+        "shiftname": "Second Shift",
+        "starttime": "16:00",
+        "endtime": "00:00"
+    },
+    {
+        "shiftday": 1,
+        "shiftname": "Third Shift",
+        "starttime": "00:00",
+        "endtime": "08:00"
+    },
+    {
+        "shiftday": 2,
+        "shiftname": "First Shift",
+        "starttime": "08:00",
+        "endtime": "16:00"
+    },
+    {
+        "shiftday": 2,
+        "shiftname": "Second Shift",
+        "starttime": "16:00",
+        "endtime": "00:00"
+    },
+    {
+        "shiftday": 2,
+        "shiftname": "Third Shift",
+        "starttime": "00:00",
+        "endtime": "08:00"
+    },
+    {
+        "shiftday": 3,
+        "shiftname": "First Shift",
+        "starttime": "08:00",
+        "endtime": "16:00"
+    },
+    {
+        "shiftday": 3,
+        "shiftname": "Second Shift",
+        "starttime": "16:00",
+        "endtime": "00:00"
+    },
+    {
+        "shiftday": 3,
+        "shiftname": "Third Shift",
+        "starttime": "00:00",
+        "endtime": "08:00"
+    },
+    {
+        "shiftday": 4,
+        "shiftname": "First Shift",
+        "starttime": "08:00",
+        "endtime": "16:00"
+    },
+    {
+        "shiftday": 4,
+        "shiftname": "Second Shift",
+        "starttime": "16:00",
+        "endtime": "00:00"
+    },
+    {
+        "shiftday": 4,
+        "shiftname": "Third Shift",
+        "starttime": "00:00",
+        "endtime": "08:00"
+    },
+    {
+        "shiftday": 5,
+        "shiftname": "First Shift",
+        "starttime": "08:00",
+        "endtime": "16:00"
+    },
+    {
+        "shiftday": 5,
+        "shiftname": "Second Shift",
+        "starttime": "16:00",
+        "endtime": "00:00"
+    },
+    {
+        "shiftday": 5,
+        "shiftname": "Third Shift",
+        "starttime": "00:00",
+        "endtime": "08:00"
+    },
+    {
+        "shiftday": 6,
+        "shiftname": "First Shift",
+        "starttime": "08:00",
+        "endtime": "16:00"
+    },
+    {
+        "shiftday": 6,
+        "shiftname": "Second Shift",
+        "starttime": "16:00",
+        "endtime": "00:00"
+    },
+    {
+        "shiftday": 6,
+        "shiftname": "Third Shift",
+        "starttime": "00:00",
+        "endtime": "08:00"
+    }
+]

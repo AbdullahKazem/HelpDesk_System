@@ -1,0 +1,28 @@
+{
+    "reasonsKey": 5,
+    "reasons": {
+        "1": [
+            "Setup",
+            "planned time"
+        ],
+        "2": [
+            "Quality",
+            "unplanned time"
+        ],
+        "3": [
+            "Planning",
+            "planned time"
+        ],
+        "4": [
+            "No Order",
+            "planned time"
+        ]
+    },
+    "stoppageReasonsTimeId": 0,
+    "stoppageReasonsTime": {},
+    "Line 3": {},
+    "Line 2": {},
+    "Line 1": {},
+    "Line 4": {},
+    "Line 5": {}
+}

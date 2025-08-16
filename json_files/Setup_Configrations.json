@@ -1,0 +1,23 @@
+{
+    "thingsboardHost": "tdb.tatbeek.com",
+    "dbHost": "tdb.tatbeek.com",
+    "dbUser": "postgres",
+    "dbPassword": "Azure@@Postgresql010",
+    "dbPort": "5432",
+    "dbName": "demo",
+    "thingsboardUsername": "a.shehta@tatbeek.com",
+    "thingsboardPassword": "shehta-tatbeek@@021",
+    "httpRequest": "https",
+
+    "devicesId":{"Line 1": "29f6e260-03f2-11f0-99cf-3ba7741ed188",
+                 "Line 2": "af5be100-108e-11f0-ba1b-4f544870361c",
+                 "Line 3": "b6fa41e0-108e-11f0-ba1b-4f544870361c",
+                 "Line 4": "c0fbe720-108e-11f0-ba1b-4f544870361c",
+                 "Line 5": "c76179e0-108e-11f0-ba1b-4f544870361c"},
+
+    "devicesAccessTokens":{"Line 1" : "Demo_Line1",
+                           "Line 2" : "Demo_Line2",
+                           "Line 3" : "Demo_Line3",
+                           "Line 4" : "Demo_Line4",
+                           "Line 5" : "Demo_Line5"}
+}

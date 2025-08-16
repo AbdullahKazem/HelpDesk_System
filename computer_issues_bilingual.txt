@@ -1,0 +1,103 @@
+Why is my computer running slow? || لماذا يعمل الكمبيوتر ببطء؟
+Why won't my computer turn on? || لماذا لا يعمل الكمبيوتر عند تشغيله؟
+Why is my screen flickering? || لماذا تومض الشاشة؟
+How do I fix a frozen computer? || كيف يمكنني إصلاح جهاز كمبيوتر متجمد؟
+Why is my internet connection unstable? || لماذا الاتصال بالإنترنت غير مستقر؟
+Why is my computer overheating? || لماذا يسخن الكمبيوتر بشكل زائد؟
+Why is the printer not printing? || لماذا لا تطبع الطابعة؟
+Why can't I install software? || لماذا لا أستطيع تثبيت البرامج؟
+Why is my mouse not working? || لماذا لا يعمل الفأرة؟
+Why is the keyboard not responding? || لماذا لا تستجيب لوحة المفاتيح؟
+How do I recover deleted files? || كيف يمكنني استعادة الملفات المحذوفة؟
+Why does my laptop battery drain quickly? || لماذا تفرغ بطارية اللابتوب بسرعة؟
+Why does my screen stay black after startup? || لماذا تبقى الشاشة سوداء بعد بدء التشغيل؟
+How do I remove a virus? || كيف يمكنني إزالة الفيروسات؟
+Why is the sound not working? || لماذا لا يعمل الصوت؟
+Why can't I connect to Wi-Fi? || لماذا لا أستطيع الاتصال بشبكة Wi-Fi؟
+Why is my hard drive full? || لماذا القرص الصلب ممتلئ؟
+How do I update my drivers? || كيف يمكنني تحديث التعريفات؟
+How can I speed up my boot time? || كيف يمكنني تسريع وقت الإقلاع؟
+Why is my webcam not working? || لماذا لا تعمل الكاميرا؟
+Why is my computer beeping? || لماذا يصدر الكمبيوتر صفيرًا؟
+Why does my PC keep restarting? || لماذا يستمر الحاسوب في إعادة التشغيل؟
+How do I reset my computer? || كيف يمكنني إعادة ضبط الكمبيوتر؟
+Why is my display resolution wrong? || لماذا دقة الشاشة غير صحيحة؟
+How do I fix a blue screen error? || كيف يمكنني إصلاح شاشة الموت الزرقاء؟
+Why can't I open certain websites? || لماذا لا أستطيع فتح بعض المواقع؟
+Why is my email not sending? || لماذا لا يتم إرسال البريد الإلكتروني؟
+Why is the fan so loud? || لماذا يصدر المروحة صوتًا عاليًا؟
+How do I back up my data? || كيف يمكنني نسخ بياناتي احتياطيًا؟
+Why won't my USB device work? || لماذا لا يعمل جهاز USB؟
+Why can't I print from my laptop? || لماذا لا أستطيع الطباعة من اللابتوب؟
+Why is my monitor not detecting signal? || لماذا لا تكتشف الشاشة إشارة؟
+How do I reset my router? || كيف يمكنني إعادة ضبط جهاز التوجيه؟
+How do I access BIOS? || كيف يمكنني الدخول إلى BIOS؟
+Why is my disk usage at 100%? || لماذا استخدام القرص 100٪؟
+Why can't I hear audio through headphones? || لماذا لا أسمع الصوت عبر سماعات الرأس؟
+Why does my system keep freezing? || لماذا يستمر النظام في التجمد؟
+Why won't my game start? || لماذا لا يبدأ تشغيل اللعبة؟
+How do I check my PC temperature? || كيف يمكنني فحص درجة حرارة الحاسوب؟
+Why is my software crashing? || لماذا يتعطل البرنامج؟
+Why is my graphics card not detected? || لماذا لا يتم اكتشاف بطاقة الرسومات؟
+How do I format a hard drive? || كيف يمكنني تهيئة القرص الصلب؟
+Why are my desktop icons missing? || لماذا اختفت أيقونات سطح المكتب؟
+Why is my system date and time incorrect? || لماذا التاريخ والوقت غير صحيحين؟
+Why does my PC make a clicking noise? || لماذا يصدر الحاسوب صوت طقطقة؟
+How do I uninstall unwanted programs? || كيف يمكنني إزالة البرامج غير المرغوب فيها؟
+Why is my touchpad not responding? || لماذا لا يعمل لوحة اللمس؟
+Why is the CD/DVD drive not reading discs? || لماذا لا تقرأ محرك الأقراص الأقراص؟
+Why do I see artifacts on the screen? || لماذا تظهر تشويشات على الشاشة؟
+How do I change my password? || كيف يمكنني تغيير كلمة المرور؟
+Why can't I connect my Bluetooth device? || لماذا لا أستطيع توصيل جهاز بلوتوث؟
+How do I fix driver conflicts? || كيف يمكنني إصلاح تعارض التعريفات؟
+How do I stop pop-up ads? || كيف يمكنني إيقاف الإعلانات المنبثقة؟
+Why is Windows Update stuck? || لماذا يتوقف تحديث ويندوز؟
+Why can't I log into Windows? || لماذا لا أستطيع تسجيل الدخول إلى ويندوز؟
+How do I disable startup programs? || كيف يمكنني تعطيل البرامج عند الإقلاع؟
+Why is my screen zoomed in? || لماذا تم تكبير الشاشة؟
+How do I set up dual monitors? || كيف يمكنني إعداد شاشات مزدوجة؟
+Why is my download speed so slow? || لماذا سرعة التنزيل بطيئة؟
+Why are files opening with the wrong app? || لماذا تفتح الملفات ببرنامج غير صحيح؟
+How do I stop automatic restarts? || كيف يمكنني إيقاف إعادة التشغيل التلقائي؟
+Why can't I access certain folders? || لماذا لا أستطيع الوصول إلى بعض المجلدات؟
+Why does my PC lag during video calls? || لماذا يتأخر الحاسوب أثناء المكالمات؟
+How do I reinstall my operating system? || كيف يمكنني إعادة تثبيت نظام التشغيل؟
+Why is my screen upside down? || لماذا الشاشة مقلوبة؟
+How do I fix broken registry entries? || كيف يمكنني إصلاح السجل التالف؟
+Why is the system fan not spinning? || لماذا لا تعمل مروحة النظام؟
+Why is my screen resolution blurry? || لماذا دقة الشاشة غير واضحة؟
+How do I enable dark mode? || كيف يمكنني تفعيل الوضع الليلي؟
+Why can't I update my antivirus? || لماذا لا يتم تحديث برنامج الحماية؟
+Why is my PC making buzzing sounds? || لماذا يصدر الحاسوب صوت طنين؟
+Why do I get access denied errors? || لماذا أحصل على أخطاء رفض الوصول؟
+How do I clean up disk space? || كيف يمكنني تنظيف مساحة القرص؟
+Why do icons look too big or small? || لماذا الأيقونات كبيرة أو صغيرة جدًا؟
+How do I turn off sticky keys? || كيف يمكنني إيقاف المفاتيح اللاصقة؟
+Why does my computer keep disconnecting from Wi-Fi? || لماذا يفصل الحاسوب من Wi-Fi باستمرار؟
+Why is my email inbox not syncing? || لماذا لا تتم مزامنة البريد الإلكتروني؟
+How do I fix printer offline status? || كيف يمكنني إصلاح حالة الطابعة غير متصلة؟
+Why does my browser keep crashing? || لماذا يتعطل المتصفح؟
+How do I update BIOS firmware? || كيف يمكنني تحديث BIOS؟
+Why is my screen frozen? || لماذا تجمدت الشاشة؟
+Why won't my external hard drive work? || لماذا لا يعمل القرص الصلب الخارجي؟
+Why can't I play videos? || لماذا لا أستطيع تشغيل الفيديو؟
+How do I fix corrupted files? || كيف يمكنني إصلاح الملفات التالفة؟
+Why is the keyboard typing wrong characters? || لماذا تكتب لوحة المفاتيح حروف خاطئة؟
+How do I reset system settings? || كيف يمكنني إعادة تعيين إعدادات النظام؟
+Why are my network drives not showing? || لماذا لا تظهر محركات الشبكة؟
+How do I clear browser cache? || كيف يمكنني مسح ذاكرة التخزين المؤقت؟
+Why is my VPN not connecting? || لماذا لا يعمل VPN؟
+How do I share files between computers? || كيف يمكنني مشاركة الملفات؟
+Why can't I install Windows updates? || لماذا لا أستطيع تثبيت تحديثات ويندوز؟
+How do I fix microphone not detected? || كيف يمكنني إصلاح الميكروفون؟
+Why is there no display after sleep mode? || لماذا لا يظهر العرض بعد وضع السكون؟
+How do I disable Cortana? || كيف يمكنني تعطيل كورتانا؟
+Why is Windows Defender turned off? || لماذا تم إيقاف Windows Defender؟
+How do I fix broken shortcuts? || كيف يمكنني إصلاح الاختصارات التالفة؟
+How do I fix Windows Explorer crashing? || كيف يمكنني إصلاح توقف مستكشف ويندوز؟
+Why does my PC not recognize my phone? || لماذا لا يكتشف الحاسوب هاتفي؟
+Why does my screen have a red/green tint? || لماذا الشاشة بها لون أحمر أو أخضر؟
+How do I check my RAM usage? || كيف يمكنني التحقق من استهلاك الرام؟
+Why is my PC freezing when idle? || لماذا يتجمد الحاسوب عند عدم الاستخدام؟
+How do I fix broken Windows services? || كيف يمكنني إصلاح خدمات ويندوز؟
+Why do I get black bars on the screen? || لماذا تظهر أشرطة سوداء على الشاشة؟

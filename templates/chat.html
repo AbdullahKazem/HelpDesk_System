@@ -1,0 +1,100 @@
+{% extends "home.html" %}
+
+{% block pagehead %}
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='CSSFiles/chat.css') }}"> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <style>
+    body {
+      /* Background solution */
+    background: url("{{ url_for('static', filename='Media/backgroundImage.jpg') }}") no-repeat center center/cover fixed;
+      
+}
+  </style>
+
+  <style>
+    
+    .chat-container {
+      background:  
+                  url('https://www.egyptair.com/en/PublishingImages/Homepage/EgyptAir-Aircraft.jpg');
+      background-size: cover;
+      background-position: center;
+      min-height: 100vh;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .chat-header {
+      background-color: #183B4E; /* EgyptAir red */
+      color: white;
+      padding: 1rem 2rem;
+      border-radius: 8px 8px 0 0;
+      width: 100%;
+      max-width: 800px;
+      text-align: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    
+    .chat-header h2 {
+      margin: 0;
+      font-size: 1.5rem;
+    }
+    
+    .chat-header img {
+      height: 40px;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+    
+    #webchat {
+      width: 100%;
+      max-width: 800px;
+      height: 600px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      border-radius: 0 0 8px 8px;
+      overflow: hidden;
+    }
+    
+    .chat-footer {
+      margin-top: 2rem;
+      color: #333;
+      font-size: 0.9rem;
+      text-align: center;
+    }
+    
+    @media (max-width: 768px) {
+      .chat-container {
+        padding: 1rem;
+      }
+      
+      #webchat {
+        height: 500px;
+      }
+    }
+  </style>
+
+  {% endblock %}
+
+{% block rest %}
+
+<div class="chat-container">
+  <div class="chat-header">
+    
+    <h2>EgyptAir Virtual Assistant</h2>
+  </div>
+  
+ 
+  <div id="webchat"></div>
+  
+  <div class="chat-footer">
+    Need more help? Call EgyptAir Customer Service at +202 269 66300
+  </div>
+</div>
+
+<script src="https://cdn.botpress.cloud/webchat/v3.2/inject.js"></script>
+
+<script src="{{ url_for('static', filename='JSFiles/chat.js') }}"></script>
+<script src="{{ url_for('static', filename='JSFiles/chat-interactions.js') }}"></script>
+
+{% endblock %}

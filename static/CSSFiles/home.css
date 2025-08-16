@@ -1,0 +1,138 @@
+:root{
+    --hover: #0f9294;
+    --background: aqua;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+li, a{
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+header{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(187, 207, 235);
+    height: 100px;
+    width: auto;
+}
+.sidelogo{
+    position: absolute;
+    left: 10px;
+    width: 11%;
+}
+
+.navigation{
+    position: absolute;
+    right: 20px;
+}
+
+.navRight{
+    /* border: 1px solid red; */
+    list-style: none;
+}
+.navRight li{
+    display: inline-block;
+    padding: 0px 10px;
+    cursor: pointer;
+    color: #183B4E;
+}
+/* .navRight li i{
+    display: inline-block;
+} */
+.navRight li a{
+    border: none;
+    border-radius: 50px;
+    padding: 9px 9px;
+    transition: all 0.3s ease 0s;
+}
+.navRight li a:hover{
+    cursor: pointer;
+    background-color: var(--hover);
+}
+
+.sideBar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 18%;
+    z-index: 999;
+    background-color: rgb(187, 207, 235);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    overflow: scroll;
+}
+
+.xIcons{
+   cursor: pointer;
+   padding-left: 20px;
+}
+
+.sideBar li {
+    list-style: none;
+    width: 100%;
+    margin: 5%;
+}
+
+.sideBar li a{
+    width: 100%;
+    margin: 5%;
+}
+
+.sideBar li a{
+    border: none;
+    border-radius: 50px;
+    padding: 9px 9px;
+    transition: all 0.3s ease 0s;
+}
+
+.sideBar li a:hover{
+    cursor: pointer;
+    background-color: var(--hover);
+    transition: all 0.5s ease 0s;
+}
+
+.tableButtons{
+    display: block;
+    width: 150px;
+    position: relative;
+    margin: 20px 0px 0px 10px;
+    margin-left: 5%;
+    padding: 10px;
+}
+
+.tableButtons:hover{
+    background-color: aquamarine;
+}
+
+@media(max-width: 1700px){
+    .sidelogo{
+        position: absolute;
+        left: 20px;
+        width: 20%;    
+    }
+    .sideBar{
+        overflow: scroll;
+    }
+    .navRight li i{
+        display: inline-block;
+    }
+    .navRight li a{
+        display: none;
+    }
+}
